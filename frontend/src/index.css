@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small tweaks to match screenshots */
+body { @apply bg-gray-100 font-sans; }
+.header { @apply bg-brandBlue text-white; }
