@@ -50,6 +50,9 @@ It includes complete e-commerce functionalities such as product browsing, authen
 ✅ Responsive Design  
 
 
+## 🗂️ Repository Structure
+
+
 > The **backend code** (Django + REST API) and backend screenshots are available in the **master branch** of this repository.
 
 ---
