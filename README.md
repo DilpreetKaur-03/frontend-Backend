@@ -86,4 +86,4 @@ It includes complete e-commerce functionalities such as product browsing, authen
 
 ---
 
-## 🗂️ Repository Structure
+
